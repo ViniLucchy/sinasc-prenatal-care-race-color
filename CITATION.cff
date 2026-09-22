@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository and the associated manuscript."
+title: "Reproducibility code for maternal race/color and prenatal care utilization in SINASC, Brazil, 2019–2023"
+type: software
+authors:
+  - family-names: "Lucchesi"
+    given-names: "Vinicius de Almeida"
+    affiliation: "Independent Researcher, Osasco, São Paulo, Brazil"
+version: 1.0.0
+date-released: 2026-09-22
+repository-code: "https://github.com/ViniLucchy/sinasc-prenatal-care-race-color"
+url: "https://github.com/ViniLucchy/sinasc-prenatal-care-race-color"
+license: MIT
