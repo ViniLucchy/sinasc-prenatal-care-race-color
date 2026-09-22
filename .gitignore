@@ -1,0 +1,21 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# renv local library
+renv/library/
+renv/staging/
+
+# Individual-level / derived data
+data/
+*.rds
+SINASC_*.csv
+cohort_*.csv
+
+# Temporary / office
+*.tmp
+~$*
+.DS_Store
+Thumbs.db

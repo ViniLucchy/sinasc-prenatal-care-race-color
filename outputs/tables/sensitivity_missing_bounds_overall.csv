@@ -1,0 +1,2 @@
+group_type,group,n_total,n_observed_outcome,n_missing_outcome,below_observed_n,adequate_or_more_observed_n,observed_prevalence,observed_prevalence_pct,lower_bound_prevalence,lower_bound_prevalence_pct,upper_bound_prevalence,upper_bound_prevalence_pct
+Overall,Overall,12378,11745,633,4042,7703,0.3441464452958706,34.4,0.3265470996930037,32.7,0.3776862174826305,37.8
